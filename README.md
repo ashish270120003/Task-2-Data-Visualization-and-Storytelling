@@ -11,7 +11,7 @@ Develop a visual report utilizing Tableau or Power BI that:
 
 ## 🛠 Tools Employed
 
-- Power BI (or Tableau) for crafting visualizations
+- python for crafting visualizations
 - Superstore dataset (or similar sales data)
 
 ## 📈 Actions Taken
