@@ -27,8 +27,6 @@ Develop a visual report utilizing Tableau or Power BI that:
 ## 📎 Deliverables
 
 - Screenshots of dashboards (stored in the `/screenshots` directory)
-- [PDF report or Power BI/TWBX file](./path-to-report.pdf) (if relevant)
-- This README file
 
 ## 💡 Key Findings
 
