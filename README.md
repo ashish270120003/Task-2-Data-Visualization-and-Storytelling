@@ -1,5 +1,3 @@
-# Task-2-Data-Visualization-and-Storytelling
-Here’s a concise README.md that you can add to your GitHub repository for Task 2: Data Visualization and Storytelling as part of the Data Analyst Internship: 
 # 📊 Task 2: Data Visualization and Storytelling
 
 This repository showcases my work for Task 2 of the Data Analyst Internship. The objective was to illustrate data storytelling through informative and visually appealing charts and dashboards.
