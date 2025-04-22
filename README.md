@@ -1,6 +1,6 @@
 # 📊 Task 2: Data Visualization and Storytelling
 
-This repository showcases my work for Task 2 of the Data Analyst Internship. The objective was to illustrate data storytelling through informative and visually appealing charts and dashboards.
+
 
 ## ✅ Objective
 
