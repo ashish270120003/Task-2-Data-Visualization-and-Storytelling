@@ -40,9 +40,3 @@ This task reinforced my abilities in:
 - Minimizing visual clutter
 - Emphasizing key points and providing context
 - Narrating a story through visual data representations
-
---- 
-
-🔗 [Submission Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
-Feel free to let me know if you prefer this adjusted specifically for Tableau, Power BI, or a particular dataset name, or if you need assistance with writing the actual business insights or slide summary!
